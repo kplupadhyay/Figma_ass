@@ -1,0 +1,119 @@
+
+
+.form {
+  
+  margin-top: 25px;
+  margin-left: 25%;
+  background-color: rgba(239, 149, 194, 0.5);
+  
+  width: 380px;
+  height: 100px;
+  
+  padding: 100px;
+  
+}
+#loginId{
+  padding-left: 30px ;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.text-id{
+  font-weight: 50px;
+  font-size: 20px;
+  padding-right: 180px;
+  
+  
+}
+#password{
+  padding-left: 30px ;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+  
+}
+
+.pass-id{
+  font-weight: 50px;
+  font-size: 20px;
+  padding-right: 180px;
+  
+  
+}
+.btn{
+  height: 80px;
+  width: 380px;
+  margin-top: 40px;
+  background-color: rgba(112, 112, 193, 0.3);
+  margin-left: 20px;
+  margin-top: 60px;
+  border-style: none;
+  cursor: pointer;
+  
+}
+.btn-txt{
+  font-size: 20px;
+  font-weight: 30px;
+}
+.txt{
+  margin-left: 40px;
+}
+.img{
+  width: 660px;
+  height: 200px;
+  margin-left: 25%;
+
+}
+.box{
+  background-color:  rgba(239, 149, 194, 0.5);
+  color: black;
+  padding: 15px;
+  width: 280px;
+  
+}
+.mid{
+  margin-top: -15px;
+  margin-left: 32%;
+}
+.lowersection1{
+  display: flex;
+  /* justify-content: space-between;
+   */
+   gap: 50px;
+   margin-left: 25%;
+   margin-top: 20px;
+
+}
+.lowersection2{
+  display: flex;
+  /* justify-content: space-between;
+   */
+   gap: 50px;
+   margin-left: 25%;
+   /* margin-top: 20px; */
+
+}
+h1{
+  margin-left: 22%;
+  margin-top: -10px;
+}
+.upper{
+  display: flex;
+ margin-bottom: -20px;
+  gap: 280px;
+}
+.logo{
+  width: 400px;
+}
+.main{
+  margin-top: 5%;
+}
+.sbtn{
+  margin-left: 35%;
+  background-color: rgba(112, 112, 193, 0.3);
+  width: 380px;
+  height: 70px;
+}
